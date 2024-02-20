@@ -1,2 +1,2 @@
-INSERT INTO account (name,amount) VALUES ( 'Jane Down', 1000);
-INSERT INTO account (name,amount)VALUES ( 'John Read', 1000);
+INSERT INTO account (name,amount) VALUES ( 'Georgen Larusso', 9);
+INSERT INTO account (name,amount)VALUES ( 'Filippe Gurado', 1);
